@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.DS_Store
+claude_context.md
+
+
+#Ignore insiders AI rules
+.github\instructions\codacy.instructions.md
+
+# Reference files from other projects
+reference_files/
