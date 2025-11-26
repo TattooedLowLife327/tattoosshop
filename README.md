@@ -2,6 +2,10 @@
 
 React + Vite app with Supabase backend for dart supplies inventory management.
 
+## License
+
+All Rights Reserved. This code is proprietary and confidential. No part of this codebase may be reproduced, distributed, modified, or used in any form without explicit written permission from the owner.
+
 ## Setup
 
 ### 1. Install dependencies
